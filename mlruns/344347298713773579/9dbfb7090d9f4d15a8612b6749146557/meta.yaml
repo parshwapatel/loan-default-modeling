@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Asus/MY_CREDIT_PROJECT/mlruns/344347298713773579/9dbfb7090d9f4d15a8612b6749146557/artifacts
+deleted_time: 1747774137455
+end_time: 1747770371872
+entry_point_name: ''
+experiment_id: '344347298713773579'
+lifecycle_stage: deleted
+run_id: 9dbfb7090d9f4d15a8612b6749146557
+run_name: LR
+run_uuid: 9dbfb7090d9f4d15a8612b6749146557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747770356769
+status: 3
+tags: []
+user_id: Asus

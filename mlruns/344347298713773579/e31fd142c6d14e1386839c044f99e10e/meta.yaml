@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Asus/MY_CREDIT_PROJECT/mlruns/344347298713773579/e31fd142c6d14e1386839c044f99e10e/artifacts
+deleted_time: 1747774137409
+end_time: 1747771437322
+entry_point_name: ''
+experiment_id: '344347298713773579'
+lifecycle_stage: deleted
+run_id: e31fd142c6d14e1386839c044f99e10e
+run_name: XGB
+run_uuid: e31fd142c6d14e1386839c044f99e10e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747771425187
+status: 3
+tags: []
+user_id: Asus

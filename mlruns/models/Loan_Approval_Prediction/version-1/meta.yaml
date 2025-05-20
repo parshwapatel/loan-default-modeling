@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747774244926
+current_stage: None
+description: ''
+last_updated_timestamp: 1747774244926
+name: Loan_Approval_Prediction
+run_id: 1587b91c3a8f43cdb6881252380cd484
+run_link: ''
+source: file:///c:/Users/Asus/MY_CREDIT_PROJECT/mlruns/344347298713773579/1587b91c3a8f43cdb6881252380cd484/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Asus/MY_CREDIT_PROJECT/mlruns/344347298713773579/1587b91c3a8f43cdb6881252380cd484/artifacts/model
+user_id: null
+version: 1

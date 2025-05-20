@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Asus/MY_CREDIT_PROJECT/mlruns/344347298713773579/b73e4c5c4e3a46f8bf0a09b8789688ec/artifacts
+deleted_time: 1747774137412
+end_time: 1747770439214
+entry_point_name: ''
+experiment_id: '344347298713773579'
+lifecycle_stage: deleted
+run_id: b73e4c5c4e3a46f8bf0a09b8789688ec
+run_name: XGB_smt_optuna
+run_uuid: b73e4c5c4e3a46f8bf0a09b8789688ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747770427499
+status: 3
+tags: []
+user_id: Asus
